@@ -3,7 +3,7 @@
 <p align="center">Aplicação desenvolvida na MaratonaDEV 2020</p>
 
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="/public/demo.gif" alt="animated" />
 </p>
 
 <h1 align="left">🎯 O projeto </h1>
