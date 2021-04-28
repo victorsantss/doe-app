@@ -27,7 +27,7 @@ Além disso é bom ter um editor para trabalhar com o código como o [VSCode](ht
 
 ### 🔽 Clonando o repositório
 ```bash
-$ git clone <https://github.com/victorsantss/doe-app.git>
+$ git clone https://github.com/victorsantss/doe-app.git
 ```
 ### 🗄️ Conectando a Database PostgreSQL
 Adicione os detalhes de conexão PostgreSQL no arquivo server.js.  
